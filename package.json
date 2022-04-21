@@ -35,19 +35,19 @@
   ],
   "icon": "logo.png",
   "galleryBanner": {
-    "color": "#32302f",
+    "color": "#053fc5",
     "theme": "dark"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Base Minor Hard",
+        "label": "Base Minor Dark Hard",
         "uiTheme": "vs-dark",
         "path": "./themes/base-minor-dark-hard.json",
         "subtype": "hard"
       },
       {
-        "label": "Base Minor Soft",
+        "label": "Base Minor Dark Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/base-minor-dark-soft.json",
         "subtype": "soft"
