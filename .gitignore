@@ -1,0 +1,8 @@
+build/
+themes/
+*.vsix
+
+node_modules/
+*.log
+
+*.code-workspace
