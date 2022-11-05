@@ -177,6 +177,8 @@ const DEFAULT_FALLBACKS: WorkbenchWithFallbacks = {
     opacity: 95,
   },
   'editorHoverWidget.border': 'editorWidget.border',
+  'editorStickyScroll.background': 'sideBarSectionHeader.background',
+  'editorStickyScrollHover.background': 'list.hoverBackground',
   'editorOverviewRuler.findMatchForeground': 'editor.findMatchBackground',
   'editorOverviewRuler.rangeHighlightForeground':
     'editor.findRangeHighlightBackground',
